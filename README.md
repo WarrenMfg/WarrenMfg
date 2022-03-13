@@ -1,16 +1,41 @@
-### Hi there 👋
+### **👋 Hi, I’m Kent. I'm a web developer and graphic designer.**
 
-<!--
-**WarrenMfg/WarrenMfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 😎 Career Highlights
 
-Here are some ideas to get you started:
+➤ H&R Block | Program Director, Visualization Strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Program director, product owner, software engineer, scrum master, and UI designer for business intelligence and admin portals
+- Leading and developing a team to convert designs and features into robust web applications
+
+➤ Guaranteed Rate | Software Engineer
+
+- Led frontend development of new account and SSN verification/password creation features
+- Built an automated browser screenshot uploader for unexpected errors, allowing users to send what they see to the developers as part of a logging strategy
+
+➤ Freelance | Web Developer & Graphic Designer
+
+- Delivered a content management system and an image scramble game for blog
+- Created multiple wedding deliverables and designs for small businesses
+
+➤ U.S. Geological Survey | Visual Information Specialist
+
+- Utilized Adobe Illustrator, Photoshop, and InDesign to deliver web and print products
+- Built a website prototype which provided the current status of scientists' respective digital products
+
+#### 💻 Core Technologies
+
+➤ Frontend: JavaScript, TypeScript, React, Redux, Sass, TailwindCSS, Bootstrap, Emotion
+
+➤ Backend: Node.js, Express, GraphQL, NestJS, MongoDB, Mongoose, Azure Cosmos DB
+
+➤ Deployment & Testing: AWS EC2/RDS/S3, Azure DevOps, Cypress, Jest, Mocha, Chai
+
+➤ Graphic Design: Adobe Illustrator, Photoshop, InDesign, XD; Figma; Procreate
+
+#### 🌎 Sites:
+
+[LinkedIn](https://www.linkedin.com/in/theartofwarren/)
+
+[Portfolio](https://kent-warren.bss.design/)
+
+[CodePen](https://codepen.io/kentagon)
