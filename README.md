@@ -4,7 +4,7 @@
 
 ➤ H&R Block | Program Director, Visualization Strategy
 
-- Program director, product owner, software engineer, scrum master, and UI designer for business intelligence and admin applications
+- Program director, product owner, software engineer, scrum master, and UI designer for business intelligence and admin CMS applications
 - Leading and developing a team to convert designs and features into robust web applications
 
 ➤ Guaranteed Rate | Software Engineer
