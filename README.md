@@ -4,7 +4,7 @@
 
 ➤ H&R Block | Program Director, Visualization Strategy
 
-- Program director, product owner, software engineer, scrum master, and UI designer for business intelligence and admin portals
+- Program director, product owner, software engineer, scrum master, and UI designer for business intelligence and admin applications
 - Leading and developing a team to convert designs and features into robust web applications
 
 ➤ Guaranteed Rate | Software Engineer
@@ -32,7 +32,7 @@
 
 ➤ Graphic Design: Adobe Illustrator, Photoshop, InDesign, XD; Figma; Procreate
 
-#### 🌎 Sites:
+#### 🌎 Sites
 
 [LinkedIn](https://www.linkedin.com/in/theartofwarren/)
 
