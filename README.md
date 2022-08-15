@@ -1,4 +1,4 @@
-### **👋 Hi, I’m Kent. I'm a web developer and graphic designer.**
+### **👋 Hi, I’m Kent. I'm a program director and web developer.**
 
 #### 😎 Career Highlights
 
