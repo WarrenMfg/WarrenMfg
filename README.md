@@ -9,7 +9,7 @@
 
 ➤ Guaranteed Rate | Software Engineer
 
-- Led frontend development of new account and SSN verification/password creation features
+- Built a Node/Express mock API with server-sent events to automatically refresh the developer’s browser on saved changes
 - Built an automated browser screenshot uploader for unexpected errors, allowing users to send what they see to the developers as part of a logging strategy
 
 ➤ Freelance | Web Developer & Graphic Designer
