@@ -5,6 +5,7 @@
 ➤ H&R Block | Program Director, Visualization Strategy
 
 - Program director, product owner, software engineering manager, software engineer, and scrum master for the flagship enterprise business intelligence platform and admin CMS application
+- Oversaw migration into new Azure environments and led consolidation of code 100% ahead of schedule
 
 ➤ Guaranteed Rate | Software Engineer
 
