@@ -7,15 +7,15 @@
 - Product owner, software engineering manager, and scrum master for internal flagship enterprise business intelligence platform and admin content management system, accessed by 10,000+ associates
 - Direct report to CFO, leading 4 FTEs and 1 contractor to oversee SDLC for internal apps and prototypes 
 
-➤ Guaranteed Rate | Software Engineer
-
-- Led frontend feature development of account creation, SSN verification, and home valuation charts
-- Built an automated browser screenshot uploader for unexpected errors, allowing users to send what they see to the developers as part of a logging strategy
-
 ➤ Freelance | Web Developer & Graphic Designer
 
 - Used AWS S3 to deliver full stack recipe blog with drag-and-drop image scramble game and admin CMS
 - Delivered graphical expense tracking web application for monthly expenses for local small business
+
+➤ Guaranteed Rate | Software Engineer
+
+- Led frontend feature development of account creation, SSN verification, and home valuation charts
+- Built an automated browser screenshot uploader for unexpected errors, allowing users to send what they see to the developers as part of a logging strategy
 
 ➤ U.S. Geological Survey | Visual Information Specialist
 
