@@ -1,26 +1,26 @@
-### **👋 Hi, I’m Kent. I'm a program director and web developer.**
+### **👋 Hi, I’m Kent. I'm a program director, software engineering manager, and mentor.**
 
 #### 😎 Career Highlights
 
 ➤ H&R Block | Program Director, Visualization Strategy
 
-- Program director, product owner, software engineering manager, software engineer, and scrum master for the flagship enterprise business intelligence platform and admin CMS application
-- Oversaw migration into new Azure environments and led consolidation of code 100% ahead of schedule
+- Product owner, software engineering manager, and scrum master for internal flagship enterprise business intelligence platform and admin content management system, accessed by 10,000+ associates
+- Direct report to CFO, leading 4 FTEs and 1 contractor to oversee SDLC for internal apps and prototypes 
 
 ➤ Guaranteed Rate | Software Engineer
 
-- Built a Node/Express mock API with server-sent events to automatically refresh the developer’s browser on saved changes
+- Led frontend feature development of account creation, SSN verification, and home valuation charts
 - Built an automated browser screenshot uploader for unexpected errors, allowing users to send what they see to the developers as part of a logging strategy
 
 ➤ Freelance | Web Developer & Graphic Designer
 
-- Delivered a content management system and an image scramble game for blog
-- Created multiple wedding deliverables and designs for small businesses
+- Used AWS S3 to deliver full stack recipe blog with drag-and-drop image scramble game and admin CMS
+- Delivered graphical expense tracking web application for monthly expenses for local small business
 
 ➤ U.S. Geological Survey | Visual Information Specialist
 
-- Utilized Adobe Illustrator, Photoshop, and InDesign to deliver web and print products
 - Built a website prototype which provided the current status of scientists' respective digital products
+- Utilized Adobe Illustrator, Photoshop, and InDesign to deliver web and print products
 
 #### 💻 Core Technologies
 
