@@ -34,4 +34,4 @@
 
 #### 🌎 Sites
 
-[LinkedIn](https://www.linkedin.com/in/theartofwarren/) | [Resume](https://kent-warren.bss.design/) | [CodePen](https://codepen.io/kentagon)
+[LinkedIn](https://www.linkedin.com/in/theartofwarren/) | [Resume](https://www.kentwarren.dev) | [CodePen](https://codepen.io/kentagon)
