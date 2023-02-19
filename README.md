@@ -1,4 +1,4 @@
-### **👋 Hi, I’m Kent. I'm a program director and mentor with 20+ years of experience delivering digital products.**
+### **👋 Hi, I’m Kent. I'm a program director and mentor with 20+ years of digital product management.**
 
 #### 😎 Career Highlights
 
