@@ -1,4 +1,4 @@
-### **👋 Hi, I’m Kent. I'm a program director and mentor.**
+### **👋 Hi, I’m Kent. I'm a program director and mentor with 20+ years of experience delivering digital products.**
 
 #### 😎 Career Highlights
 
@@ -21,6 +21,11 @@
 
 - Built a website prototype allowing stakeholders to monitor the status of digital products
 - Designed, developed, and administered the product brief for Section 508 compliant print and digital products
+
+➤ Fools & Horses, LLC | Musician
+
+- Contracted, coordinated, and collaborated with producers, designers, and vendors to launch 4 full-length digital products 100% on time and within budget
+- Hired and coordinated resources including a helicopter, vehicles, venues, director, and actors for the production of videos
 
 #### 💻 Core Technologies
 
