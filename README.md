@@ -13,7 +13,7 @@
 #### Containing Costs & Optimizing Resources: 
 
 - Yielded a 33% reduction in projected costs while keeping the project ahead of schedule during environment migration and code consolidation. 
-- Increased user engagement by 10% and reduced costs by $5,500 a year by overseeing and contributing to the redesign of search and browse functionality.
+- Increased user engagement by 10% and reduced costs by $5,500 per year by overseeing and contributing to the redesign of search and browse functionality.
 - Minimized manual reload and streamlined processes by building an Express mock API with server-sent events to automatically refresh the browser on saved changes.
 
 #### Enhancing Products, Features, & Reliability: 
