@@ -8,7 +8,7 @@
 
 - Impacted 10,000+ associates while serving as Product Owner, Software Engineering Manager, and Scrum master for internal flagship enterprise BI and admin content management systems. 
 - Enhanced productivity by 20% by implementing Scrum, decoupling and reducing complexity, developing internal documentation, and standardizing developer workflow tools.
-- Achieved 100% code coverage for all front-end business logic as a result of developing a robust set of Jest test suites. 
+- Achieved 100% code coverage for all front-end business logic by developing robust test suites.
 
 #### Containing Costs & Optimizing Resources: 
 
