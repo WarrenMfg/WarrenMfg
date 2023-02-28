@@ -26,7 +26,7 @@
 
 - Frontend: JavaScript, TypeScript, React, Redux, Sass, TailwindCSS, Bootstrap, Emotion
 - Backend: Node.js, Express, GraphQL, NestJS, MongoDB, Mongoose, Azure Cosmos DB
-- Deployment & Testing: AWS EC2/RDS/S3, Azure DevOps, Cypress, Jest, Mocha, Chai
+- Deployment & Testing: AWS EC2/RDS/S3, Azure DevOps, Cypress, Jest, React Testing Library
 - Graphic Design: Adobe Illustrator, Photoshop, InDesign, XD; Figma; Procreate
 
 
