@@ -13,14 +13,14 @@
 #### Containing Costs & Optimizing Resources: 
 
 - Yielded a 33% reduction in projected costs while keeping the project ahead of schedule during environment migration and code consolidation. 
-- Coordinated third-party single sign-on authentication, reducing manual 15-second flow to 1-second.
+- Coordinated third-party single sign-on authentication, reducing manual 15-second flow to 1 second.
 - Increased user engagement by 10% and reduced costs by $5,500 per year by overseeing and contributing to the redesign of search and browse functionality.
 
 #### Enhancing Products, Features, & Reliability: 
 
 - Boosted site admin engagement by 50% by directing expansion into a new QA environment.
 - Facilitated 4,000+ submissions of supervised learning for ML models by overseeing the design, development, and release of an internal application.
-- Fueled successful product development for internal apps and prototypes while reporting directly to the CFO and leading 4 FTEs and 1 contractor. 
+- Fueled successful product development for internal apps and prototypes using Azure DevOps while reporting directly to the CFO and leading 4 FTEs and 1 contractor. 
 
 ### 💻 Core Technologies
 
