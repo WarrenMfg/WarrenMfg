@@ -29,11 +29,6 @@
 - Deployment & Testing: AWS EC2/RDS/S3, Azure DevOps, Cypress, Jest, React Testing Library
 - Graphic Design: Adobe Illustrator, Photoshop, InDesign, XD; Figma; Procreate
 
-
-### 📖 Currently Reading
-
-"Positive Intelligence" by Shirzad Chamine
-
 ### 🌎 Sites
 
 [LinkedIn](https://www.linkedin.com/in/theartofwarren/) | [Resume](https://www.kentwarren.dev)
