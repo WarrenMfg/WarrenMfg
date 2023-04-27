@@ -1,6 +1,6 @@
 ## **👋 Hi, I’m Kent**
 
-> A program director and mentor with 20+ years leading digital products.
+> A technical program director and mentor with 20+ years leading digital products.
 
 ### 😎 Career Highlights
 
