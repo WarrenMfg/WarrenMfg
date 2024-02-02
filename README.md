@@ -6,7 +6,7 @@
 
 #### How I Drive Technical Project Success: 
 
-- Impacted 10,000+ associates while serving as Product Owner, Software Engineering Manager, and Scrum Master for internal flagship enterprise BI and admin content management systems. 
+- Impacting 14,000+ associates while serving as Program Director and Scrum Master for internal flagship enterprise BI and admin content management systems.
 - Enhanced productivity by 20% by implementing Scrum, decoupling and reducing complexity, developing internal documentation, and standardizing developer workflow tools.
 - Instituted and reached 100% code coverage for API and UI by developing robust test suites.
 
