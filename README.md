@@ -18,7 +18,7 @@
 
 #### Operational Excellence and Cost Efficiency:
 
-- Enhanced productivity by 20% by implementing Scrum decoupling and reducing complexity developing internal documentation and standardizing developer workflow tools.
+- Enhanced productivity by 20% by implementing Scrum, decoupling and reducing complexity, developing internal documentation, and standardizing developer workflow tools.
 - Yielded a 33% reduction in projected costs while keeping the project ahead of schedule during environment migration and code consolidation.
 - Generated over $40,000 in revenue within the first month via velocity as a service.
 
