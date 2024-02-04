@@ -14,7 +14,7 @@
 
 - Revamped API and UI architecture and promoted best practices for automation, tooling, and testing with 100% code coverage.
 - Overseeing design and development of UI/UX for an automated tax preparation prototype.
-- Facilitated 4,000+ submissions of supervised learning for ML models by overseeing the design development and release of an internal grading application.
+- Facilitated 4,000+ submissions of supervised learning for ML models by overseeing the design, development, and release of an internal grading application.
 
 #### Operational Excellence and Cost Efficiency:
 
