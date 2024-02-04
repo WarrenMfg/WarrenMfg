@@ -4,23 +4,23 @@
 
 ### 😎 Career Highlights
 
-#### How I Drive Technical Project Success: 
+#### Leadership and Strategic Management:
 
 - Impacting 14,000+ associates while serving as Program Director and Scrum Master for internal flagship enterprise BI and admin content management systems.
-- Enhanced productivity by 20% by implementing Scrum, decoupling and reducing complexity, developing internal documentation, and standardizing developer workflow tools.
-- Instituted and reached 100% code coverage for API and UI by developing robust test suites.
+- Overseeing Generative AI chatbot development to query internal data and deliver visualizations.
+- Synchronized developers separated by 10 time zones by adapting Scrum rituals.
 
-#### Containing Costs & Optimizing Resources: 
+#### Technical Expertise and Innovation:
 
-- Yielded a 33% reduction in projected costs while keeping the project ahead of schedule during environment migration and code consolidation. 
-- Coordinated third-party single sign-on authentication, reducing manual 15-second flow to 1 second.
-- Increased user engagement by 10% and reduced costs by $5,500 per year by overseeing and contributing to the redesign of search and browse functionality.
+- Revamped API and UI architecture and promoted best practices for automation, tooling, and testing with 100% code coverage.
+- Overseeing design and development of UI/UX for an automated tax preparation prototype.
+- Facilitated 4,000+ submissions of supervised learning for ML models by overseeing the design development and release of an internal grading application.
 
-#### Enhancing Products, Features, & Reliability: 
+#### Operational Excellence and Cost Efficiency:
 
-- Boosted site admin engagement by 50% by directing expansion into a new QA environment.
-- Facilitated 4,000+ submissions of supervised learning for ML models by overseeing the design, development, and release of an internal application.
-- Fueled successful product development for internal apps and prototypes using Azure DevOps while reporting directly to the CFO and leading 4 FTEs and 1 contractor. 
+- Enhanced productivity by 20% by implementing Scrum decoupling and reducing complexity developing internal documentation and standardizing developer workflow tools.
+- Yielded a 33% reduction in projected costs while keeping the project ahead of schedule during environment migration and code consolidation.
+- Generated over $40,000 in revenue within the first month via velocity as a service.
 
 ### 💻 Core Technologies
 
