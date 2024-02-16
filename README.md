@@ -8,7 +8,7 @@
 
 - Impacting 14,000+ associates with custom internal enterprise business intelligence and admin content management systems with 100% uptime and over $2,000 per month reduction in costs.
 - Reducing turnaround time from 2 hours to 2 seconds by overseeing the development of a generative AI chatbot that queries internal data and delivers summaries and visualizations.
-- Panelist for promotion board leading to 3 promotions to lead and 2 promotions to manager.
+- Panelist for promotion boards leading to 3 promotions to lead and 2 promotions to manager.
 
 #### Technical Expertise and Innovation:
 
