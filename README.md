@@ -19,7 +19,7 @@
 #### Operational Excellence and Cost Efficiency:
 
 - Enhanced productivity by 20% by implementing Scrum, decoupling and reducing complexity, developing internal documentation, and standardizing developer workflow tools.
-- Yielded 33% reduction in projected costs by delivering environment migration and code consolidation project 30 days early with 0 bugs reducing 2-day change requests into 60 seconds.
+- Yielded 33% reduction in projected costs by delivering environment migration and code consolidation project 30 days early with 0 bugs, reducing 2-day change requests into 60 seconds.
 - Generated over $40,000 in revenue within the first month via velocity as a service.
 
 ### 💻 Core Technologies
