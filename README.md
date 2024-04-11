@@ -7,12 +7,12 @@
 #### Leadership and Strategic Management:
 
 - Impacting 14,000+ associates with custom internal enterprise business intelligence and admin content management systems with 100% uptime and over $2,000 per month reduction in costs.
-- Reducing turnaround time from 2 hours to 2 seconds by overseeing the development of a generative AI chatbot that queries internal data and delivers summaries and visualizations.
+- Reduced turnaround time from 2 hours to 2 seconds by overseeing the development of a generative AI chatbot that queries internal data and delivers summaries and visualizations.
 - Panelist for promotion boards leading to 3 promotions to lead and 2 promotions to manager.
 
 #### Technical Expertise and Innovation:
 
-- Managing UI/UX for an AI tax preparation prototype projected to save 70% in tax preparation time.
+- Managed UI/UX for an AI tax preparation prototype projected to save 70% in tax preparation time.
 - Revamped API/UI architecture and promoted best practices for automation, tooling, and testing with 100% code coverage.
 - Facilitated 4,000+ submissions of supervised learning for ML models by overseeing the design, development, release, and teardown of an internal grading application.
 
