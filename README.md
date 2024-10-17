@@ -4,23 +4,23 @@
 
 ### 😎 Career Highlights
 
-#### Leadership and Strategic Management:
+#### Leadership & Project Management
 
-- Impacting 14,000+ associates with custom internal enterprise business intelligence and admin content management systems with 100% uptime and over $2,000 per month reduction in costs.
-- Reduced turnaround time from 2 hours to 2 seconds by overseeing the development of a generative AI chatbot that queries internal data and delivers summaries and visualizations.
-- Panelist for promotion boards leading to 3 promotions to lead and 2 promotions to manager.
+- Delivered custom-built internal enterprise business intelligence and content management systems, impacting 14,000+ associates with 100% uptime and reducing costs by $2,000+ per month.
+- Led a team of 4 employees and 1 contractor across 10 time zones to deliver an environment migration and code consolidation project 30 days early, achieving a 33% reduction in projected costs and cutting change request time from 2 days to 60 seconds.
+- Enhanced productivity by 20% through the implementation of Scrum methodologies, developing internal documentation, and standardizing developer workflow tools.
 
-#### Technical Expertise and Innovation:
+#### Technical Innovation & System Optimization
 
-- Managed UI/UX for an AI tax preparation prototype projected to save 70% in tax preparation time.
-- Revamped API/UI architecture and promoted best practices for automation, tooling, and testing with 100% code coverage.
-- Facilitated 4,000+ submissions of supervised learning for ML models by overseeing the design, development, release, and teardown of an internal grading application.
+- Developed a real user monitoring prototype featuring session replay and aggregated heat maps, providing deeper insights into user behavior and improving system performance.
+- Built an automated browser screenshot uploader for unexpected errors, enabling real-time logging and submission, significantly enhancing system diagnostics and user experience.
+- Achieved 100% code coverage for new API and UI codebases by promoting best practices in testing and automation using Jest and React Testing Library.
 
-#### Operational Excellence and Cost Efficiency:
+#### AI & ML Development
 
-- Enhanced productivity by 20% by implementing Scrum, decoupling and reducing complexity, developing internal documentation, and standardizing developer workflow tools.
-- Yielded 33% reduction in projected costs by delivering environment migration and code consolidation project 30 days early with 0 bugs, reducing 2-day change requests into 60 seconds.
-- Generated over $40,000 in revenue within the first month via velocity as a service.
+- Directed the end-to-end development lifecycle of a generative AI chatbot that queries internal data, reducing turnaround time from 2 hours to 2 seconds, and boosting internal efficiency.
+- Led a cross-functional team to build and integrate UI/UX for an AI-driven tax preparation prototype, projected to save 70% in preparation time, significantly improving user experience.
+- Oversaw the design, development, release, and teardown of an internal grading application, facilitating 4,000+ submissions of supervised learning data for machine learning models.
 
 ### 💻 Core Technologies
 
