@@ -18,9 +18,9 @@
 
 #### AI & ML Development
 
+- Prototyping an AI assistant browser extension for Azure DevOps to enhance DevX and productivity.
 - Directed the end-to-end development lifecycle of a generative AI chatbot that queries internal data, reducing turnaround time from 2 hours to 2 seconds, and boosting internal efficiency.
 - Led a cross-functional team to build and integrate UI/UX for an AI-driven tax preparation prototype, projected to save 70% in preparation time, significantly improving user experience.
-- Oversaw the design, development, release, and teardown of an internal grading application, facilitating 4,000+ submissions of supervised learning data for machine learning models.
 
 ### 💻 Core Technologies
 
