@@ -6,7 +6,7 @@
 
 #### Leadership & Project Management
 
-- Delivered custom-built internal enterprise business intelligence and content management systems, impacting 14,000+ associates with 100% uptime and reducing costs by $2,000+ per month.
+- Delivered custom-built internal enterprise business intelligence and content management systems, impacting 10,000+ associates with 100% uptime and reducing costs by $2,000+ per month.
 - Led a team of 4 employees and 1 contractor across 10 time zones to deliver an environment migration and code consolidation project 30 days early, achieving a 33% reduction in projected costs and cutting change request time from 2 days to 60 seconds.
 - Enhanced productivity by 20% through the implementation of Scrum methodologies, developing internal documentation, and standardizing developer workflow tools.
 
