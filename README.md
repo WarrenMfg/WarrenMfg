@@ -12,9 +12,9 @@
 
 #### Technical Innovation & System Optimization
 
+- Facilitated 50% increase in YoY throughput by developing and expanding an automated work request process.
 - Developed a real user monitoring prototype featuring session replay and aggregated heat maps, providing deeper insights into user behavior and improving system performance.
 - Built an automated browser screenshot uploader for unexpected errors, enabling real-time logging and submission, significantly enhancing system diagnostics and user experience.
-- Achieved 100% code coverage for new API and UI codebases by promoting best practices in testing and automation using Jest and React Testing Library.
 
 #### AI & ML Development
 
