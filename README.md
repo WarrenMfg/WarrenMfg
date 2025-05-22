@@ -1,12 +1,12 @@
 ## **👋 Hi, I’m Kent**
 
-> A creative technologist and mentor with 20+ years leading digital products.
+> Creative technologist and mentor with 20+ years leading digital products.
 
 ### 😎 Career Highlights
 
 #### Leadership & Project Management
 
-- Delivered custom-built internal enterprise business intelligence and content management systems, impacting 10,000+ associates with 100% uptime and reducing costs by $2,000+ per month.
+- Leading roadmap planning and stakeholder communication for internal enterprise BI and content management systems serving 10,000+ associates, achieving 99.99% uptime, 35% YoY adoption growth, 12% mobile adoption (up from 0%), and 5.6 million reports viewed annually.
 - Led a team of 4 employees and 1 contractor across 10 time zones to deliver an environment migration and code consolidation project 30 days early, achieving a 33% reduction in projected costs and cutting change request time from 2 days to 60 seconds.
 - Enhanced productivity by 20% through the implementation of Scrum methodologies, developing internal documentation, and standardizing developer workflow tools.
 
@@ -18,16 +18,9 @@
 
 #### AI & ML Development
 
-- Prototyping an AI assistant browser extension for Azure DevOps to enhance DevX and productivity.
+- Architecting a multi-agent orchestration system to support store placement strategy, reducing reliance on manual analysis, and enabling insights through agentic data science automation.
 - Directed the end-to-end development lifecycle of a generative AI chatbot that queries internal data, reducing turnaround time from 2 hours to 2 seconds, and boosting internal efficiency.
 - Led a cross-functional team to build and integrate UI/UX for an AI-driven tax preparation prototype, projected to save 70% in preparation time, significantly improving user experience.
-
-### 💻 Core Technologies
-
-- Frontend: JavaScript, TypeScript, React, Redux, Sass, TailwindCSS, Bootstrap, Emotion
-- Backend: Node.js, Express, GraphQL, NestJS, MongoDB, Mongoose, Azure Cosmos DB
-- Deployment & Testing: AWS EC2/RDS/S3, Azure DevOps, Cypress, Jest, React Testing Library
-- Graphic Design: Adobe Illustrator, Photoshop, InDesign, XD; Figma; Procreate
 
 ### 🌎 Sites
 
