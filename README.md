@@ -1,6 +1,6 @@
 ## **👋 Hi, I’m Kent**
 
-> Creative technologist and mentor with 20+ years leading digital products.
+> Creative technologist with 20+ years leading digital products.
 
 ### 😎 Career Highlights
 
