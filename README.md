@@ -18,7 +18,7 @@
 
 #### Operational Excellence & Process Optimization
 
-- Enhanced productivity 20% by implementing Scrum, developing internal documentation, and standardizing developer workflows and tools.
+- Enhanced productivity 20% for onshore and offshore teams by implementing Scrum, developing internal documentation, and standardizing developer workflows and tools.
 - Facilitated 50% increase in YoY throughput by developing an automated work request process.
 - Advanced publishing lifecycle of 30+ digital and print products, including a Congressional Circular, while building a website prototype to improve stakeholder visibility into product status.
 
