@@ -7,8 +7,8 @@
 #### Strategic Product Leadership
 
 - Product owner and former tech lead for custom internal enterprise business intelligence platform and content management system serving 10,000+ associates; achieved 99.99% uptime, 35% YoY adoption growth, 12% mobile adoption (from 0%), and 5.6M annual report views.
+- Designed and administered an innovation sprint program resulting in product pipeline additions projected to drive $6M in annual revenue and reduce labor costs by $600K per tax season.
 - Drove 200% revenue growth by leading end-to-end product development, coordinating music producers and music video resources, negotiating contracts, and executing strategic marketing initiatives that secured placement on MTV, A&E, E!, and NBC networks.
-- Created and administered the product brief for 30+ Section 508-compliant print and digital products and established and administered the product review process for stakeholders across the organization.
 
 #### Product Development & Software Engineering
 
@@ -20,7 +20,7 @@
 
 - Enhanced productivity 20% for onshore and offshore teams by implementing Scrum, developing internal documentation, and standardizing developer workflows and tools.
 - Facilitated 50% increase in YoY throughput by developing an automated work request process.
-- Designed and administered an innovation sprint program resulting in product pipeline additions projected to drive $6M in annual revenue and reduce labor costs by $600K per tax season.
+- Created and administered the product brief for 30+ Section 508-compliant print and digital products and established and administered the product review process for stakeholders across the organization.
 
 ### 🌎 Sites
 
