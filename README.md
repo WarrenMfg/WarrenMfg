@@ -2,6 +2,8 @@
 
 > Creative technologist with 20+ years leading digital products.
 
+**Career Goal**: To enable innovation while mentoring the next generation of tech professionals.
+
 ### 😎 Career Highlights
 
 #### Strategic Product Leadership
