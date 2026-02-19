@@ -14,7 +14,7 @@
 
 #### Product Development & Software Engineering
 
-- Leading development of a two-sided marketplace and personalization platform that connects clients with relevant local business offers, providing real-time behavioral insights and market intelligence; $33M annual projected revenue.
+- Leading development of a two-sided marketplace and personalization platform that connects clients with relevant local business offers, providing real-time behavioral insights and market intelligence; $8M annual projected revenue.
 - Reduced turnaround time from 2 hours to 2 seconds by overseeing the development of a generative AI chatbot that queries internal data and delivers summaries and visualizations.
 - Deployed MVP in 6 months by leading frontend development for a new customer-facing product.
 
