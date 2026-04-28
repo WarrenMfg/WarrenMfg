@@ -8,13 +8,13 @@
 
 #### Strategic Product Leadership
 
-- Product owner and former tech lead for custom internal enterprise business intelligence platform and content management system serving 10,000+ associates; achieved 99.99% uptime, 35% YoY adoption growth, 12% mobile adoption (from 0%), and 5.6M annual report views.
+- Former product owner and tech lead for custom internal enterprise business intelligence platform and content management system serving 10,000+ associates; achieved 99.99% uptime, 35% YoY adoption growth, 12% mobile adoption (from 0%), and 5.6M annual report views.
 - Developed an innovation framework program and oversaw 2 teams that delivered product features on target to drive $6.45M in annual revenue and reduce labor costs by $600K per tax season.
 - Drove 200% revenue growth by leading end-to-end product development, managing vendors and investors, coordinating music producers and music video resources, negotiating contracts, and executing strategic marketing initiatives that secured placement on MTV, A&E, E!, and NBC networks.
 
 #### Product Development & Software Engineering
 
-- Leading development of a two-sided marketplace and personalization platform that connects clients with relevant local business offers, providing real-time behavioral insights and market intelligence; $8M annual projected revenue.
+- Led prototype development of a two-sided marketplace and personalization platform that connects clients with relevant local business offers, providing real-time behavioral insights and market intelligence; $8M annual projected revenue.
 - Reduced turnaround time from 2 hours to 2 seconds by overseeing the development of a generative AI chatbot that queries internal data and delivers summaries and visualizations.
 - Deployed MVP in 6 months by leading frontend development for a new customer-facing product.
 
