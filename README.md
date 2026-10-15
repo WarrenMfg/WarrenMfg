@@ -9,7 +9,7 @@
 #### Innovation Strategy & Organizational Leadership
 
 - Developed a facilitated innovation framework -- including uniform templates for cost/benefit analyses, product proposals, and stakeholder handoffs -- and authored enterprise-wide innovation strategy as co-lead for the Engineering Culture Council's Innovation Subcommittee.
-- Directed 2 cross-functional teams that emerged from prior framework iterations -- Work Center's Next Best Action feature and Appointment Manager's no-show/cancellation ML prediction model -- demonstrating a validated concept-to-scale transition.
+- Directed 2 cross-functional teams that emerged from prior framework iterations -- Work Center's Next Best Action behavioral prediction feature and Appointment Manager's no-show/cancellation ML prediction model -- demonstrating a validated concept-to-scale transition.
 - Oversaw end-to-end launch of 4 products as an independent music entrepreneur, managing external vendors and investors, delivering on time and within budget, while leading a merchandise redesign initiative that drove over 200% revenue increase.
 
 #### P&L Impact & Business Results
