@@ -22,7 +22,7 @@
 
 - Directed development of an embedded self-service data analysis AI chatbot querying internal data to deliver stakeholder summaries and visualizations, reducing time-to-insight from weeks to minutes.
 - Directed prototype development across 4 other initiatives: a multi-AI agent orchestration system for store placement analysis, a real user monitoring system with ML-driven interventions to reduce onboarding friction, an AI browser extension for Azure DevOps, and a commenting browser extension for Microsoft Purview.
-- Served as tech lead for a custom enterprise BI platform and content management system -- a full-scale internal build spanning architecture, SDLC and PDLC, and content management -- achieving 99.99% uptime, 35% YoY adoption growth, and 5.6M annual report views.
+- Served as tech lead for a custom enterprise business intelligence platform and content management system -- a full-scale internal build spanning architecture, SDLC and PDLC, and content management -- achieving 99.99% uptime, 35% YoY adoption growth, and 5.6M annual report views.
 
 ### Top 5 Gallup CliftonStrengths (+ Themes):
 
